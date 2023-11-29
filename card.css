@@ -26,10 +26,19 @@ font-family: 'Raleway', sans-serif;
     border-radius: 30px;
 }
 .design{
-    padding-left: 25px;
+    padding-left: 16px;
     color: #883AE1;
     font-size: 10px;
     font-weight: 600;
+   
+}
+.design p{
+    border: 1px solid #E6D6FC;
+    border-radius: 0.5rem;
+    width: 45px;
+    background-color: #E6D6FC;
+    text-align: center;
+    padding: 5px;
 }
 .title{
     padding: 16px 16px 6px 16px;
@@ -45,4 +54,7 @@ font-family: 'Raleway', sans-serif;
     padding: 5px 16px 20px 16px;
     color: #6C727F;
     font-size: 13px;
+}
+hr{
+    border-top: #6C727F;
 }
