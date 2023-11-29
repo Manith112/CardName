@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Public+Sans:wght@100;200;500&family=Raleway:wght@500&family=Roboto+Condensed:wght@300&display=swap');
+
+
+body{
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 164px;
+    /* font-family: 'Bebas Neue', sans-serif; */
+/* font-family: 'Public Sans', sans-serif; */
+font-family: 'Raleway', sans-serif;
+/* font-family: 'Roboto Condensed', sans-serif; */
+}
+.card{
+    width: 368px;
+    box-shadow: 0px 30px 100px 0px rgba(17, 23, 41, 0.05);
+    border: none;
+    border-radius: 15px;
+}
+.card img{ 
+    width: 336px;
+    padding: 16px;
+    height: 152px;
+    border-radius: 30px;
+}
+.design{
+    padding-left: 25px;
+    color: #883AE1;
+    font-size: 10px;
+    font-weight: 600;
+}
+.title{
+    padding: 16px 16px 6px 16px;
+    font-size: 15px;
+}
+.para{
+    padding: 0px 70px 20px 16px;
+    font-size: 13px;
+    color: #6C727F;
+    line-height: 20px;
+}
+.annie{
+    padding: 5px 16px 20px 16px;
+    color: #6C727F;
+    font-size: 13px;
+}
